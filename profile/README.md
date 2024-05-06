@@ -1,4 +1,4 @@
-**IllyrianSentryAI** is centered on the integration of Artificial Intelligence in defense. It is driven by a clear vision, a strong mission, and focused objectives.
+**IllyricSentryAI** is centered on the integration of Artificial Intelligence in defense. It is driven by a clear vision, a strong mission, and focused objectives.
 
 ## Vision
 
