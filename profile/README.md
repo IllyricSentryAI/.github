@@ -8,9 +8,7 @@ To be at the forefront of employing Artificial Intelligence to revolutionize the
 
 ## Mission
 
-Our mission is to harness the innovative power of AI to address specific defense challenges in our region. This includes enhancing strategic decision-making, improving surveillance and reconnaissance, strengthening cybersecurity, and optimizing resource management in defense 
-
-Operations.
+Our mission is to harness the innovative power of AI to address specific defense challenges in our region. This includes enhancing strategic decision-making, improving surveillance and reconnaissance, strengthening cybersecurity, and optimizing resource management in defense operations.
 
 
 
