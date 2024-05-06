@@ -19,7 +19,6 @@ Operations.
 - Foster Cross-Functional Collaboration: To bring together experts from the defense sector, AI technology, and product development to create a synergistic environment for innovation.
 - Develop AI-Driven Defense Tools: To design and develop AI tools that enhance intelligence analysis, threat detection, and operational efficiency.
 - Promote Regional Security and Stability:To contribute to the peace and stability of the region through advanced defense mechanisms.
-- Establish a Foundation for a Future AI Startup: To lay the groundwork for transforming this initiative into a sustainable AI startup, focused on defense technology.
 - Evangelize: Increase awareness within the military institutions of Albania & Kosovo by providing consultations and hands-on training to its personnel.
 
 In conclusion, our initiative is not just about technological advancement; it's about creating a safer, more secure future for our region. Through collaboration, innovation, and a shared vision, we can achieve remarkable progress in the defense industry.
